@@ -1,5 +1,6 @@
 # Customer-Segmentation-Project
 End-to-End Machine Learning group project conduct by Packt &amp; TeamEpic.
+Check out the live demo: https://cccs-project.herokuapp.com/
 
 ## Problem Statement
 RBL’s marketing department collects various customer specific data of the credit card 
@@ -34,6 +35,7 @@ This project based on k means clustering will help end users enter different inp
 ![TeamEpicProject](https://user-images.githubusercontent.com/66164268/128001426-dbb762e9-62f0-4da2-a018-717277ae0f75.png)
 
 
+## Video with explanation 
 https://user-images.githubusercontent.com/66164268/128002246-2cee5867-3e7c-44c8-acbd-94e609cab0b5.mp4
 
 
