@@ -1,5 +1,6 @@
 # Customer-Segmentation-Project
 End-to-End Machine Learning group project conduct by Packt &amp; TeamEpic.
+
 Check out the live demo: https://cccs-project.herokuapp.com/
 
 ## Problem Statement
