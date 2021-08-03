@@ -11,6 +11,9 @@ other factors which may not be helpful to create a customer cluster that actuall
 want to design a system that would automate this process and help the different 
 stakeholders to make informed business decision.
 
+## Features
+This project based on k means clustering will help end users enter different inputs of customers payment behavior on a webpage on three different types of models and return information on the type of customer and help user to understand what kind of customer it is. It will show a graph showcasing the common features of that particular cluster the customer belongs to.
+
 ## Technology stack
 
 | Element   | Description   | 
@@ -29,10 +32,6 @@ stakeholders to make informed business decision.
 
 ## Architecture of the project
 ![TeamEpicProject](https://user-images.githubusercontent.com/66164268/128001426-dbb762e9-62f0-4da2-a018-717277ae0f75.png)
-
-
-## Features
-This project based on k means clustering will help end users enter different inputs of customers payment behavior on a webpage on three different types of models and return information on the type of customer and help user to understand what kind of customer it is. It will show a graph showcasing the common features of that particular cluster the customer belongs to.
 
 
 https://user-images.githubusercontent.com/66164268/128002246-2cee5867-3e7c-44c8-acbd-94e609cab0b5.mp4
