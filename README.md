@@ -34,3 +34,4 @@ stakeholders to make informed business decision.
 ## Features
 This project based on k means clustering will help end users enter different inputs of customers payment behavior on a webpage on three different types of models and return information on the type of customer and help user to understand what kind of customer it is. It will show a graph showcasing the common features of that particular cluster the customer belongs to.
 
+
